@@ -5,12 +5,14 @@
  Chenhao Wang
 
 ## Tools
- ReactJS  Spring  AWS EC2/RDS  RESTful API  MySQL    
+ *ReactJS  *Spring  *AWS EC2/RDS  *RESTful API  *MySQL    
 
-## Description
 
+## User Interface
 ![UI Screenshot ](./img/screenshot1.jpg)
 ![UI Screenshot (Register)](./img/screenshot2.jpg)
+
+## Description
 
 * Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations.
 * Built a web page with rich + user friendly experience using React and Ant Design. 
