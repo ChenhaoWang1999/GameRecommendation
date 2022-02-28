@@ -1,5 +1,4 @@
 # A Personalized Twitch Resources Recommendation Engine
-URL: http://3.144.244.217/
 
 ## Authors
  Chenhao Wang
