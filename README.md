@@ -6,7 +6,7 @@
 ## User Interface
 ![UI Screenshot ](./img/screenshot1.jpg)
 ![UI Screenshot (Register)](./img/screenshot2.jpg)
-![1666230668430](https://user-images.githubusercontent.com/76039657/196837519-acb57577-5f9a-4508-816e-67109333711c.jpg)
+![UI Screenshot (Register)](./img/servlet.jpg)
 
 
 ## Description
